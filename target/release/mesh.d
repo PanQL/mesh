@@ -1,1 +1,0 @@
-/data/Code/graphics/mesh/target/release/mesh: /data/Code/graphics/mesh/src/face.rs /data/Code/graphics/mesh/src/main.rs /data/Code/graphics/mesh/src/mesh.rs /data/Code/graphics/mesh/src/pair.rs /data/Code/graphics/mesh/src/vertex.rs
